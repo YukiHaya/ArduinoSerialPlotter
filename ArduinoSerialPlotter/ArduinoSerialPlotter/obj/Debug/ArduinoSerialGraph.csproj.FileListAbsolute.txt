@@ -1,0 +1,10 @@
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\bin\Debug\ArduinoSerialGraph.exe.config
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\bin\Debug\ArduinoSerialGraph.exe
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\bin\Debug\ArduinoSerialGraph.pdb
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.Form1.resources
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.Properties.Resources.resources
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.csproj.GenerateResource.cache
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.csproj.CoreCompileInputs.cache
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.exe
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.pdb
+C:\Users\haya\Documents\Visual Studio 2017\Projects\ArduinoSerialGraph\ArduinoSerialGraph\obj\Debug\ArduinoSerialGraph.csprojAssemblyReference.cache
